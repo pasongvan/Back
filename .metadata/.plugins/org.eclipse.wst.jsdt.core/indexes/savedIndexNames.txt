@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\SSAFY\Desktop\새 폴더\Back\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3007813423.index
+102624359.index
+3846165557.index
+1669169689.index
+238780939.index

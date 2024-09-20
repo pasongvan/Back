@@ -1,0 +1,10 @@
+package com.ssafy.servlet;
+
+import jakarta.servlet.http.HttpServlet;
+
+@WebServlet("/main")
+public class MainServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	
+}
