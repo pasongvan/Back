@@ -3,4 +3,5 @@
   <module moduleId="org.eclipse.jst.jee.server:BackEnd_02_JSP" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:BackEnd_01_Servlet" serverId="Tomcat v10.1 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:BackEnd_03_Cookie" serverId="Tomcat v10.1 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:BackEnd_04_EL_JSTL" serverId="Tomcat v10.1 Server at localhost"/>
 </modules>
